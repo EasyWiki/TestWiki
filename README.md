@@ -1,0 +1,2 @@
+# TestWiki
+An example wiki
